@@ -1,0 +1,29 @@
+/* 
+    Document   : font
+    Created on : 08 Jul 15, 4:14:48
+    Author     : X450JN
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/*.saturate {-webkit-filter: saturate(3);}
+.grayscale {-webkit-filter: grayscale(100%);}
+.contrast {-webkit-filter: contrast(160%);}
+.brightness {-webkit-filter: brightness(0.25);}
+.blur {-webkit-filter: blur(3px);}
+.invert {-webkit-filter: invert(100%);}
+.sepia {-webkit-filter: sepia(100%);}
+.huerotate {-webkit-filter: hue-rotate(180deg);}
+.rss.opacity {-webkit-filter: opacity(50%);}*/
+
+.kimberley-font @font-face {
+    font-family: 'Kimberley';
+    src: url(../kimberley.ttf);
+}
+
+.default-font{
+    color: #000;
+}
+/*input[type=text]{
+    text-transform:uppercase;
+}*/
